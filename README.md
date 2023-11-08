@@ -10,6 +10,12 @@ Hello, I'm Jude, and I'm on an exciting journey into the world of cybersecurity!
 
 🔗 Feel free to reach out, share your insights, or embark on this learning journey with me. Together, we can build a more secure digital future! 💻🔐
 
+Follow:
+
+Medium - https://medium.com/@jude.paulraj1
+
+LinkedIn - https://www.linkedin.com/in/jude-paulraj-981314222/
+
 <!---
 CyberMystic-Jude/CyberMystic-Jude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
