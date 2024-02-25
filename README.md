@@ -15,7 +15,8 @@ Follow:
 Medium - https://medium.com/@jude.paulraj1
 
 LinkedIn - https://www.linkedin.com/in/jude-paulraj-981314222/
-
+<html>
+      <body>
       <style>
         .libutton {
           display: flex;
@@ -34,6 +35,8 @@ LinkedIn - https://www.linkedin.com/in/jude-paulraj-981314222/
         }
       </style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jude-paulraj-981314222" target="_blank">Follow on LinkedIn</a>
+      </body>
+</html>
 
 <!---
 CyberMystic-Jude/CyberMystic-Jude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
