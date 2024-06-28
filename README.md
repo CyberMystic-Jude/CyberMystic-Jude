@@ -10,6 +10,8 @@ Hello, I'm Jude, and I'm on an exciting journey into the world of cybersecurity!
 
 🔗 Feel free to reach out, share your insights, or embark on this learning journey with me. Together, we can build a more secure digital future! 💻🔐
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/cybermystic.jude.png" alt="TryHackMe">
+
 Follow:
 
 Medium -       <a class="libutton" href="https://medium.com/@jude.paulraj1" target="_blank">Follow on Medium</a>
