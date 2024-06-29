@@ -10,8 +10,9 @@ Hello, I'm Jude, and I'm on an exciting journey into the world of cybersecurity!
 
 🔗 Feel free to reach out, share your insights, or embark on this learning journey with me. Together, we can build a more secure digital future! 💻🔐
 
-<html>
-  <script src="https://tryhackme.com/badge/2651243"></script>
+<html><head>
+  <script src="https://tryhackme.com/badge/2651243"></script> </head>
+  <body></body>
 </html>
 
   My TryHackMe Profile : 
