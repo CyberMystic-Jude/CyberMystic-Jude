@@ -11,8 +11,11 @@
 </p>
 
 <p align="center">
+  <a href="https://cybermystic-jude-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Console-00f0ff?style=for-the-badge&logo=opsgenie&logoColor=020308" alt="CyberMystic Portfolio Console"/>
+  </a>
   <a href="https://in.linkedin.com/in/cybermystic-jude">
-    <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=020308" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-080c24?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn Profile"/>
   </a>
   <a href="https://medium.com/@CyberMystic-Jude">
     <img src="https://img.shields.io/badge/Medium-7a1fa2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles"/>
@@ -37,6 +40,8 @@
 I am a **Cybersecurity Analyst** merging offensive VAPT insights with robust defensive threat detection strategies. My core competency spans web application testing, network vulnerability discovery, and auditing cloud architectures against security guidelines.
 
 Currently driving security posture enhancements through **Security Operations Center (SOC)** workflows. I construct correlation rules, triage incoming alerts, parse system events, and conduct threat mapping to the **MITRE ATT&CK** framework, leveraging SIEM platforms including **Microsoft Sentinel** and **Splunk**.
+
+✨ **Interactive SOC Dashboard Portfolio:** [cybermystic-jude-portfolio.web.app](https://cybermystic-jude-portfolio.web.app/)
 
 <p align="center">
   <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
