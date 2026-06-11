@@ -41,7 +41,7 @@ I am a **Cybersecurity Analyst** merging offensive VAPT insights with robust def
 
 Currently driving security posture enhancements through **Security Operations Center (SOC)** workflows. I construct correlation rules, triage incoming alerts, parse system events, and conduct threat mapping to the **MITRE ATT&CK** framework, leveraging SIEM platforms including **Microsoft Sentinel** and **Splunk**.
 
-✨ **Interactive SOC Dashboard Portfolio:** [cybermystic-jude-portfolio.web.app](https://cybermystic-jude-portfolio.web.app/)
+✨ **Portfolio:** [cybermystic-jude-portfolio.web.app](https://cybermystic-jude-portfolio.web.app/)
 
 <p align="center">
   <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
