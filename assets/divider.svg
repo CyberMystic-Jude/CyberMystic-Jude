@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20" width="100%" height="20">
-  <defs>
-    <!-- Standard SVG Glow Filter -->
-    <filter id="cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feComponentTransfer in="blur" result="glow1">
-        <feFuncA type="linear" slope="0.8" />
-      </feComponentTransfer>
-      <feMerge>
-        <feMergeNode in="glow1" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
-
   <style>
     .line {
       stroke: #00f0ff;
@@ -28,9 +14,9 @@
     }
   </style>
   <line x1="0" y1="10" x2="800" y2="10" class="line"/>
-  <line x1="250" y1="10" x2="550" y2="10" stroke="#00f0ff" stroke-width="1.5" filter="url(#cyan-glow)"/>
+  <line x1="250" y1="10" x2="550" y2="10" stroke="#00f0ff" stroke-width="1.5"/>
   
-  <rect x="393" y="7" width="14" height="6" class="accent" filter="url(#cyan-glow)" transform="rotate(45 400 10)"/>
+  <rect x="393" y="7" width="14" height="6" class="accent" transform="rotate(45 400 10)"/>
   <circle cx="360" cy="10" r="3" class="accent-purple"/>
   <circle cx="440" cy="10" r="3" class="accent-purple"/>
   <line x1="330" y1="6" x2="330" y2="14" stroke="#00f0ff" stroke-width="1.5"/>
