@@ -1,4 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="240">
+  <defs>
+    <!-- Standard SVG Glow Filter -->
+    <filter id="cyan-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComponentTransfer in="blur" result="glow1">
+        <feFuncA type="linear" slope="0.8" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="glow1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
   <style>
     .grid {
       fill: none;
@@ -9,9 +24,6 @@
       fill: none;
       stroke: #00f0ff;
       stroke-width: 1.5;
-    }
-    .hud-glow {
-      filter: drop-shadow(0px 0px 4px rgba(0, 240, 255, 0.8));
     }
     .text-title {
       font-family: 'Fira Code', 'Courier New', monospace;
@@ -30,11 +42,6 @@
       fill: #00ff66;
       font-size: 11px;
     }
-    .text-red {
-      font-family: 'Fira Code', 'Courier New', monospace;
-      fill: #ff007f;
-      font-size: 11px;
-    }
     .bg-main {
       fill: #020308;
     }
@@ -42,14 +49,6 @@
       fill: #080c24;
       stroke: rgba(0, 240, 255, 0.15);
       stroke-width: 1;
-    }
-    .pulse-node {
-      fill: #00ff66;
-      animation: blink 2s infinite;
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 0.3; }
-      50% { opacity: 1; }
     }
   </style>
 
@@ -64,20 +63,20 @@
   
   <!-- Outer glowing bracket accents -->
   <!-- Top-Left -->
-  <path d="M 20 50 L 20 20 L 50 20" class="hud-line hud-glow"/>
+  <path d="M 20 50 L 20 20 L 50 20" class="hud-line" filter="url(#cyan-glow)"/>
   <!-- Top-Right -->
-  <path d="M 780 50 L 780 20 L 750 20" class="hud-line hud-glow"/>
+  <path d="M 780 50 L 780 20 L 750 20" class="hud-line" filter="url(#cyan-glow)"/>
   <!-- Bottom-Left -->
-  <path d="M 20 190 L 20 220 L 50 220" class="hud-line hud-glow"/>
+  <path d="M 20 190 L 20 220 L 50 220" class="hud-line" filter="url(#cyan-glow)"/>
   <!-- Bottom-Right -->
-  <path d="M 780 190 L 780 220 L 750 220" class="hud-line hud-glow"/>
+  <path d="M 780 190 L 780 220 L 750 220" class="hud-line" filter="url(#cyan-glow)"/>
 
   <!-- Inner HUD Grid Card -->
   <rect x="40" y="40" width="460" height="160" rx="3" class="bg-card"/>
   <rect x="520" y="40" width="240" height="160" rx="3" class="bg-card"/>
 
   <!-- Title inside Main Card -->
-  <text x="60" y="75" class="text-title hud-glow">CYBERMYSTIC // PORTAL</text>
+  <text x="60" y="75" class="text-title" filter="url(#cyan-glow)">CYBERMYSTIC // PORTAL</text>
   <text x="60" y="98" class="text-subtitle">Security Operations & Threat Defense Terminal</text>
 
   <!-- Left Stats Block -->
@@ -98,7 +97,7 @@
   <line x1="540" y1="80" x2="740" y2="80" stroke="rgba(0, 240, 255, 0.2)" stroke-width="1"/>
   
   <!-- Status entries -->
-  <circle cx="548" cy="102" r="4" fill="#00ff66" class="hud-glow"/>
+  <circle cx="548" cy="102" r="4" fill="#00ff66" filter="url(#cyan-glow)"/>
   <text x="562" y="106" class="text-mono">FIREWALL: SECURED</text>
 
   <circle cx="548" cy="127" r="4" fill="#00f0ff"/>
