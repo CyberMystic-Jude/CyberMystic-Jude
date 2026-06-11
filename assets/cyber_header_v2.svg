@@ -24,7 +24,7 @@
   <rect x="520" y="40" width="240" height="160" rx="3" fill="#080c24" stroke="rgba(0, 240, 255, 0.15)" stroke-width="1"/>
 
   <!-- Title inside Main Card -->
-  <text x="60" y="75" font-family="'Fira Code', 'Courier New', monospace" font-weight="700" fill="#00f0ff" font-size="20" letter-spacing="2">CYBERMYSTIC // PORTAL</text>
+  <text x="60" y="75" font-family="'Fira Code', 'Courier New', monospace" font-weight="700" fill="#00f0ff" font-size="20" letter-spacing="2">CYBERMYSTIC-JUDE </text>
   <text x="60" y="98" font-family="'Outfit', 'Inter', sans-serif" fill="#c5c6c7" font-size="13">Security Operations &amp; Threat Defense Terminal</text>
 
   <!-- Left Stats Block -->
