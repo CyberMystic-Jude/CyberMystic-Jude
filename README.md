@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://cybermystic-jude-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio_Console-00f0ff?style=for-the-badge&logo=opsgenie&logoColor=020308" alt="CyberMystic Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=opsgenie&logoColor=020308" alt="CyberMystic Portfolio"/>
   </a>
   <a href="https://in.linkedin.com/in/cybermystic-jude">
     <img src="https://img.shields.io/badge/LinkedIn-080c24?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn Profile"/>
