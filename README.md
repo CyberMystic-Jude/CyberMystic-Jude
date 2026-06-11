@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cyber_header.svg" width="100%" alt="CyberMystic SOC Portal Header" />
+  <img src="assets/cyber_header_v2.svg" width="100%" alt="CyberMystic SOC Portal Header" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ### 📜 Security Briefing / Profile
@@ -41,9 +41,10 @@ I am a **Cybersecurity Analyst** merging offensive VAPT insights with robust def
 
 Currently driving security posture enhancements through **Security Operations Center (SOC)** workflows. I construct correlation rules, triage incoming alerts, parse system events, and conduct threat mapping to the **MITRE ATT&CK** framework, leveraging SIEM platforms including **Microsoft Sentinel** and **Splunk**.
 
+✨ **Interactive SOC Dashboard Portfolio:** [cybermystic-jude-portfolio.web.app](https://cybermystic-jude-portfolio.web.app/)
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ### 🛠️ Cyber Security Toolbox
@@ -93,7 +94,7 @@ Currently driving security posture enhancements through **Security Operations Ce
 *   **Scripting:** Crafting utilities in Python, Bash, and PowerShell to parse logs, scrape indicators, and automate ingestion pipelines.
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ### 📊 Hands-on Cybersecurity Lab Profiles
@@ -119,7 +120,7 @@ I validate my defensive and offensive capabilities through technical training pl
 ```
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ### 💼 Professional Experience
@@ -132,7 +133,7 @@ I validate my defensive and offensive capabilities through technical training pl
 *   **Mitigation Consulting:** Coordinated with developer and engineering teams to verify patch verification, custom baselines, and secure system configuration.
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ### 🎓 Academic & Certifications
@@ -146,7 +147,7 @@ I validate my defensive and offensive capabilities through technical training pl
 *   **Vulnerability Disclosure Recognition** – CVE entry and acknowledgement for reporting a high-severity cross-site scripting (XSS) vulnerability in an open-source CMS
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="HUD Divider Line" />
+  <img src="assets/divider_v2.svg" width="100%" alt="HUD Divider Line" />
 </p>
 
 ```text
